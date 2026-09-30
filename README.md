@@ -46,12 +46,13 @@ A full-stack, real-time ride-hailing web app (like Uber/Ola) built with the MERN
 
 ## 📸 Screenshots
 
-| Home | Vehicle Selection | Captain Panel |
-| ---- | ----------------- | ------------- |
-| ![Home](screenshots/home.png) | ![Vehicle](screenshots/vehicle.png) | ![Captain](screenshots/captain.png) |
+| Home | Signup |
+| ---- | ------ |
+| ![Home](Screenshots/home.png) | ![Signup](Screenshots/signup.png) |
 
-_Add your screenshots inside a `screenshots` folder._
-
+| Location Search | Captain Home |
+| --------------- | ------------ |
+| ![Location Panel](Screenshots/location_panel.png) | ![Captain Home](Screenshots/captain_home.png) |
 ---
 
 ## 🔄 How It Works
